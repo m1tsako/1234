@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "discord": {
+    "clientId": "123456789",
+    "smallImageText": "All of Create",
+    "smallImageKey": "icon"
+  },
+  "servers": [
+    {
+      "id": "all-of-create",
+      "name": "All of Create",
+      "description": "Сервер с 240 модами на 1.21.1",
+      "icon": "https://helios-files.geekcorner.eu.org/icon.png",
+      "version": "1.21.1",
+      "address": "127.0.0.1:25565",
+      "discord": {
+        "shortId": "AoC",
+        "largeImageText": "All of Create",
+        "largeImageKey": "icon"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": []
+    }
+  ]
+}
